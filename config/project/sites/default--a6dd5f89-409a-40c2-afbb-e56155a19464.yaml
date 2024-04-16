@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en
+name: liliart
+primary: true
+siteGroup: bc9bae80-6a30-4338-be82-ff6bae01b074 # liliart
+sortOrder: 1

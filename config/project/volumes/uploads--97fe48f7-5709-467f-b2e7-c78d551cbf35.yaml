@@ -1,0 +1,49 @@
+altTranslationKeyFormat: null
+altTranslationMethod: none
+fieldLayouts:
+  873c80b1-5399-4000-b96f-e257a2d903aa:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\assets\AssetTitleField
+            uid: ce1c1f00-96e3-4b08-904d-d0b62ac6a0e8
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: cfbb4a4e-38c2-409c-bf19-2de3fd938111
+        userCondition: null
+fs: uploads
+handle: uploads
+name: Uploads
+sortOrder: 1
+subpath: home/sara/projects/liliart/web/uploads
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
+transformFs: uploads
+transformSubpath: ''

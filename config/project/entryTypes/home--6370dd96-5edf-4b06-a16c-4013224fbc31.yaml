@@ -1,0 +1,80 @@
+color: null
+fieldLayouts:
+  0ed68a8d-afcc-4d32-b2e7-a53c7e843499:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: a59c9068-2f34-4ac2-8023-4b1817e406ae
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 815e7034-3809-4da3-a4c2-6db1ea3f6824 # Banner text
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: d59ee71f-195c-4e79-b7f6-cb2336c78bb6
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 1be76c83-a911-4d15-9e8b-b4a4f3a24757 # Banner image
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: a64891da-1f79-4c6a-9e6a-56b0956c7315
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 8745b55e-5808-4282-99a1-17c9c49cf562
+        userCondition: null
+handle: home
+hasTitleField: true
+icon: ''
+name: home
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: ''
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

@@ -1,0 +1,12 @@
+{% extends "index" %}
+
+{% block content %}
+
+    {% set image = entry.bannerImage.one() %}
+
+    <body>
+        <img src="{{ image.getUrl() }}" class="banner-img">
+        <p class="banner-text">{{ entry.bannerText }}</p>
+    </body>
+    {{ dump(image.getUrl()) }}
+{% endblock %}

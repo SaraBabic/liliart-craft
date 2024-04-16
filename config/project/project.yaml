@@ -1,0 +1,35 @@
+dateModified: 1713292800
+email:
+  fromEmail: sarababic0101@gmail.com
+  fromName: liliart
+  transportType: craft\mail\transportadapters\Sendmail
+fs:
+  uploads:
+    hasUrls: false
+    name: uploads
+    settings:
+      path: $ASSET_BASE_PATH
+    type: craft\fs\Local
+    url: null
+meta:
+  __names__:
+    1be76c83-a911-4d15-9e8b-b4a4f3a24757: 'Banner image' # Banner image
+    97fe48f7-5709-467f-b2e7-c78d551cbf35: Uploads # Uploads
+    815e7034-3809-4da3-a4c2-6db1ea3f6824: 'Banner text' # Banner text
+    6370dd96-5edf-4b06-a16c-4013224fbc31: home # home
+    a6dd5f89-409a-40c2-afbb-e56155a19464: liliart # liliart
+    b9f3b864-bafd-4ab2-8801-8a935dc460d8: home # home
+    bc9bae80-6a30-4338-be82-ff6bae01b074: liliart # liliart
+system:
+  edition: solo
+  live: true
+  name: liliart
+  schemaVersion: 5.0.0.20
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true
